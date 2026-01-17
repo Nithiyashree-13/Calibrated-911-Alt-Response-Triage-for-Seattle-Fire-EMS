@@ -1,0 +1,16 @@
+{
+  "logistic_regression": {
+    "prauc": 0.5254047782786081,
+    "brier": 0.25067480132022013,
+    "thr_for_p>=0.90": 0.6448016994264829,
+    "precision_at_thr": 1.0,
+    "recall_at_thr": 0.0
+  },
+  "random_forest": {
+    "prauc": 0.5933628123211461,
+    "brier": 0.24886775088055718,
+    "thr_for_p>=0.90": 0.98,
+    "precision_at_thr": 1.0,
+    "recall_at_thr": 3.060771620525535e-05
+  }
+}
